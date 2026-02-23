@@ -1,5 +1,12 @@
 # fallback-chain-lib
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/fallback-chain-lib/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/fallback-chain-lib/actions)
+![License](https://img.shields.io/github/license/yksanjo/fallback-chain-lib)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/fallback-chain-lib)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/fallback-chain-lib)
+
 ## Detailed Description
 
 fallback-chain-lib is maintained as an industry-grade software project with production-ready engineering practices.  
